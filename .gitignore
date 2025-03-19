@@ -1,0 +1,14 @@
+# Virtual environment
+myappenv/
+venv/
+
+# Django database
+db.sqlite3
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# IDE-specific files
+.vscode/
+*.log
